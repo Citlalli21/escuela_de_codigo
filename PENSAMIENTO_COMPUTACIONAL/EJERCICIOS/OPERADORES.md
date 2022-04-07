@@ -9,6 +9,7 @@ X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
 20-27
 -7
 20-(-7)
+27
 
 
 X = (5 + 2 * 4) – (25 +. 5)
@@ -37,6 +38,8 @@ x = ((8+5) *4) * (10-6)/4)
 52
 (4/4)
 1
+52*1
+52
 
 
 
@@ -72,7 +75,7 @@ G
 Reto. Evalúa las siguientes expresiones a la derecha.
 1) (45<120 OR 12<120) = falso
 3) (6! =6) && (12>22)) = verdadero
-4) ¬ (128<145 && 12>9) = 
+4) ¬ (128<145 && 12>9) = verdadero
 5) “Daniela”< >”DANIELA” = falso
 6) 10*20< >210 = verdadero
 
