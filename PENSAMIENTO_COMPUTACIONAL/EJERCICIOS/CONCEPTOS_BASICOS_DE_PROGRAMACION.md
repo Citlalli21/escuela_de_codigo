@@ -22,7 +22,12 @@ Investiga tres lenguajes de programación y enuncia sus características y lo qu
 ![image](https://user-images.githubusercontent.com/103066352/162497260-f25eb7b6-3f6d-4f96-9eae-d5f59d4b9df8.png)
 
 
-  
-
-
 ## LENGUAJE 3
+# java script
+* ADAPTABLE A CUALQUIER SISTEMA OPERATIVO
+* lenguaje central
+* Se combina con cualquier otro sistema operativo
+* Se pueden introducir codigos preestablecidos
+
+![image](https://user-images.githubusercontent.com/103066352/162501280-b1c132b5-8712-4ce5-b17b-ef022229f89d.png)
+
