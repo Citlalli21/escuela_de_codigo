@@ -31,3 +31,21 @@ DIAGRAMA
 
 5. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 
+ALGORITMO
+ 
+1 inicio
+2 declaro numero1 numero 2 resultado
+3 muestro ingresar numero 1
+4 se asigna numero 
+5 muestro ingresar numero 2
+6 se asigna numero 
+7 se opera numero 1 * numero 2
+8 se muestra el resultado 
+9 se opera res/ 2
+10 se muestra resultado
+11 fin 
+
+DIAGRAMA
+![image](https://user-images.githubusercontent.com/103066352/163036192-39e31e1e-cbe8-40de-98a1-11ba34c27500.png)
+
+
