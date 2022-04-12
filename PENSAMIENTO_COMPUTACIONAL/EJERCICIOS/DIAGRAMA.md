@@ -1,13 +1,13 @@
 ## RETO
 1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
 ALGORITMO
-inicio
-declaro numero y resultado
-muestro ingresar un numero
-se asigna el numero 
-realiza la operacion =  numero * 9
-se muestra el resultado 
-fin 
+1 inicio
+2 declaro numero y resultado
+3 muestro ingresar un numero
+4 se asigna el numero 
+5 realiza la operacion =  numero * 9
+6 se muestra el resultado 
+7 fin 
 
 
 DIAGRAMA DE FLUJO
@@ -16,5 +16,18 @@ DIAGRAMA DE FLUJO
 
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
-4. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
+
+ALGORITMO
+1 inicio
+2 declaro numero y resultado
+3 muestro ingresar numero
+4 se asigna el numero 
+5 realizar operacion = numero * 1.09
+6 muestra el resultado 
+7 fin 
+
+DIAGRAMA
+![image](https://user-images.githubusercontent.com/103066352/163031499-57e93b1e-d0a1-47cc-ab8d-ced18c0768cc.png)
+
+5. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 
