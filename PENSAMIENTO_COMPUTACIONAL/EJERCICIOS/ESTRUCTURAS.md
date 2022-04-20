@@ -36,17 +36,17 @@
 *   si letra = b<a y letra = b<c y letra = a<c
     mostrar  b a c
 *   si no 
-    si letra c<a y c<b y a<c
-    mostrar b c a
-    si no
-    si letra a<b y c<a a<b                        
-    mostrar c a b
-    si no                        
-    si letra = a<c y a<b y c<b
-    mostrar a c b
-    si no                           
-    si letra = c<b y b<a y c<a
-    mostrar c b a                           
+ *   si letra c<a y c<b y a<c
+ *   mostrar b c a
+ *  si no
+ *  si letra a<b y c<a a<b                        
+ *  mostrar c a b
+ *   si no                        
+ *  si letra = a<c y a<b y c<b
+ *  mostrar a c b
+ * si no                           
+ * si letra = c<b y b<a y c<a
+ * mostrar c b a                           
     
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
