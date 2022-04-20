@@ -3,35 +3,35 @@
 
 * Programa que pida un número y diga si es positivo o negativo
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
-* inicio
-* declarar (letra)char
-* mostrar "ingrese una letra para validar"
-* asignar (letra)
-* si letra= s, o n 
-* imprime correcto
-* sino
-* imprime incorrecto
-* finsi
-* finproceso
+* 1 inicio
+* 2 declarar (letra)char
+* 3 mostrar "ingrese una letra para validar"
+* 4 asignar (letra)
+* 5 si letra== "s" o letra == "n" 
+  * imprime "correcto"
+  * sino
+  * imprime "incorrecto"
+  * finsi
+* 6 finproceso
 
 ![image](https://user-images.githubusercontent.com/103066352/164295280-44b6e7c3-2943-45b8-983c-fdf291797e4f.png)
 
 * Un programa que pida una letra y detecte si es una vocal.
-* inicio
-* declarar (letra) char
-* mostrar"ingrese una letra"
-* asignar (letra= a, e, i, o, u)
-* si letra = a, e, i, o, u
-* imprime vocal
-* si no
-* finsi
-* finproceso
+* 1 inicio
+* 2 declarar (letra) char
+* 3 mostrar"ingrese una letra"
+* 4 asignar (letra= a, e, i, o, u)
+* 5 si letra = a, e, i, o, u
+* 6 imprime vocal
+* 7 si no
+* 8 finsi
+* 9 finproceso
 * 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * inicio
 * declarar (numero) int
-* mostrar
-* asignar (numero= )
+* mostrar "ingrese un numero"
+* asignar ( )
 * 
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
