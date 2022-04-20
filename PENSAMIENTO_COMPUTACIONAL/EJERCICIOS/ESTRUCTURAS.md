@@ -14,7 +14,6 @@
   * finsi
 * 6 finproceso
 
-![image](https://user-images.githubusercontent.com/103066352/164295280-44b6e7c3-2943-45b8-983c-fdf291797e4f.png)
 
 * Un programa que pida una letra y detecte si es una vocal.
 * 1 inicio
@@ -28,11 +27,27 @@
 * 9 finproceso
 * 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
-* inicio
-* declarar (numero) int
-* mostrar "ingrese un numero"
-* asignar ( )
-* 
+* 1 inicio
+* 2 declarar (letra a, b, c,) int
+* 3 mostrar "ingrese un numero"
+* 4 asignar (letra = a< b y letra =b<c y letra = a<c )
+*   muestra a b c
+*   si no 
+*   si letra = b<a y letra = b<c y letra = a<c
+    mostrar  b a c
+*   si no 
+    si letra c<a y c<b y a<c
+    mostrar b c a
+    si no
+    si letra a<b y c<a a<b                        
+    mostrar c a b
+    si no                        
+    si letra = a<c y a<b y c<b
+    mostrar a c b
+    si no                           
+    si letra = c<b y b<a y c<a
+    mostrar c b a                           
+    
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 * Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
